@@ -1,0 +1,37 @@
+.parent-section{
+    display: flex;
+}
+
+.section-1{
+	background-color: white;
+	height: 100px;
+	width: 50%;
+}
+
+.section-2{
+	background-color: white;
+	height: 100px;
+	width: 50%;
+}
+
+#box{
+	height: 10px;
+	background-color: orange;
+	width: 60px;
+}
+
+#section-2-image{
+	background-color: goldenrod;
+	width: 60%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.profile-image{
+	width: 80%;
+	margin-left: 10%;
+}
+
+#submit-button{
+	border: 1px goldenrod;
+	background-color: goldenrod;
+}
